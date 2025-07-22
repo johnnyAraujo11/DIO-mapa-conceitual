@@ -1,4 +1,4 @@
-# DIO-mapa-conceitual
+# DIO - mapa conceitual de uma oficina
 Modelando um Mapa Conceitual de uma Oficina, cujo a descrição: 
 
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
